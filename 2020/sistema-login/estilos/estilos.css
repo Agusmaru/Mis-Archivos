@@ -1,0 +1,88 @@
+body{  /* Estilos del Body */
+  font-family: arial /* definimos el tipo de fuente como "arial" */
+  background-color:#18A383; /* Le damos un color de fondo a nuestro body*/
+  box-sizing: border-box; /*border-box le dice al navegador tomar en cuenta para cualquier valor que se especifique de borde o de relleno para el ancho
+   o alto de un elemento.*/
+}
+.datos{ /* Estilos al elemento de clase "datos" */
+
+  float: left; /*La propiedad CSS float ubica un elemento al lado izquierdo o derecho de su contenedor*/
+  margin-left: 20px; /* Le damos un margen izquierdo de 20 pixeles */
+}
+
+.principal{ /* Estilos al elemento de clase "principal" */
+  overflow: hidden; /* hace que el navegador oculte todos los contenidos que se salen de la caja del elemento*/
+}
+
+.tabla{ /* Estilos al elemento de clase "tabla" */
+  margin-top: 10px; /* le damos un margen top(arriba) de 10 pixeles */
+  margin-left: 220px; /* Le damos un margen izquierdo de 220px */
+}
+
+form{ /* Estilos para elementos form */
+  font-size: 14px; /* Tamaño de letra de 14 pixeles */
+  background-color: white; /* Color de fondo blanco */
+  border-radius: 3px; /* border radius se usa para redondear los bordes de un elemento, en este caso 3 pixeles */
+  padding: 15px; /* relleno de 15 pixeles*/
+  margin: left auto; /* margen izquierdo automatico */
+  width: 300px; /* ancho de 300 pixeles */
+}
+
+input,textarea{ /* Estilos para input textarea */
+  outline: none; /* contorno "none" por lo que no se visualizara */
+  border: 0; /* borde de 0 pixeles*/
+  width: 300px; /* ancho de 300 pixeles*/
+}
+.field{ /* Estilos para elemento de clase "field" */
+  border: solid 1px #ccc; /* borde solido de 1 pixel color gris*/
+
+}
+.field:focus{ /* Estilos para los elementos de clase "field" cuando le hacemos click*/
+  border-color: #18A383; /* color del borde #18A383S */
+}
+.boton{ /* Estilos para los elementos de clase "boton" */
+  font-size: 15px; /* tamaño de letra de 15 pixeles*/
+  text-align: center; /* texto alineado al centro */
+  height: 30px; /* alto de 30 pixeles */
+}
+.boton:hover{ /* boton hover cuando el cursor esta posicionado encima */
+  background-color: #18A383; /* color de fondo #18A383 (verde) */
+}
+h1{ /*estilos para h1 */
+  color: white; /* color blanco para la fuente*/
+}
+
+
+          /* ESTILOS DE LA TABLA */
+
+
+table{ /*Estilos de table */
+
+  background-color: white; /* color de fondo blanco*/
+  text-align: left; /* texto alineado a la izquierda */
+  width: 650px; /* ancho de 650 pixeles */
+  border-collapse: collapse; /* borde colapsado*/
+}
+tr, th, td{ /* estilos para el tr, th y td */
+
+  padding: 10px; /* relleno de 10 pixeles */
+}
+td{ /* estilos para td */
+  font-family: arial; /* estilo de fuente arial */
+  font-size: 17px; /* tamaño de letra 17 pixeles */
+}
+thead{ /* estilos de thead */
+  background-color: #246355 /* color de fondo #246355 (verde oscuro) */;
+  color: white; /* color blanco para la fuente */
+  border-bottom: solid 5px #0F362D; /* borde inferior solido de 5 pixeles color #0F362D (verde oscuro) */
+}
+tr:hover td{ /* estilos para cuando el cursor este sobre tr y td */
+  background-color: #18A383; /* color de fondo #18A383 (verde claro) */
+  color: white; /* color de fuente blanco */
+}
+
+
+.buscar{ /* esilos para elemento de clase "buscar" */
+  margin-top: 10px; /* margen superior de 10 pixeles */
+  margin-left: 360px; /* margen izquierdo de 360 pixeles */
+}

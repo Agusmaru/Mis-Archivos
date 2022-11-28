@@ -1,0 +1,81 @@
+body{
+  font-family: arial;
+  background-color:#18A383;
+  box-sizing: border-box;
+}
+
+
+.principal{
+  overflow: hidden;
+}
+
+.tabla{
+  margin-top: 10px;
+  margin-left: 220px;
+  float: none;
+}
+
+form{
+  font-size: 14px;
+  background-color: white;
+  border-radius: 3px;
+  padding: 15px;
+  margin: left auto;
+  width: 300px;
+}
+
+input,textarea{
+  outline: none;
+  border: 0;
+  width: 300px;
+}
+.field{
+  border: solid 1px #ccc;
+
+}
+.field:focus{
+  border-color: #18A383;
+}
+.boton{
+  font-size: 15px;
+  text-align: center;
+  height: 30px;
+}
+.boton:hover{
+  background-color: #18A383;
+}
+h1{
+  color: white;
+}
+
+          /* ESTILOS DE LA TABLA */
+
+
+table{
+
+  background-color: white;
+  text-align: left;
+  width: 650px;
+  border-collapse: collapse
+}
+tr, th, td{
+
+  padding: 10px;
+}
+td{
+  font-family: arial;
+  font-size: 17px;
+}
+thead{
+  background-color: #246355;
+  color: white;
+  border-bottom: solid 5px #0F362D;
+}
+tr:hover td{
+  background-color: #18A383;
+  color: white;
+}
+.buscar{
+  margin-top: 10px;
+  margin-left: 360px;
+}

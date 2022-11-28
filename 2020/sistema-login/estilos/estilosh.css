@@ -1,0 +1,38 @@
+/* ESTILOS DEL HEADER */
+
+header{ /* estilos para el header */
+margin: 0; /* margen de 0 pixeles */
+width: 100%; /* ancho del 100% porciento */
+background: green; /* color de fondo verde */
+}
+#btn-menu{ /* estilos para btn-menu*/
+display: none; /* no se mostrara en pantalla */
+}
+header label{ /* estilos para header label */
+display: none ; /* no se mostrara en pantalla*/
+width: 30px; /* ancho de 30 pixeles */
+height: 30px; /* alto de 30 pixeles */
+padding: 10px; /* relleno 10 pixeles */
+border-right: 1px solid #fff; /* borde derecho de 1 pixel solido color blanco */
+}
+header label:hover{ /* estilos para cuando el cursor este sobre header label*/
+cursor: pointer; /* el cursor se vera en forma de mano */
+background: rgba(0, 0, 0, 0.3); /* capa oscura sobre el background(verde)*/
+}
+.menu ul{ /* estilo para ul de el elemento de clase "menu" */
+  margin: 0; /* margen 0 pixeles */
+  list-style: none; /* estilo de la lista eliminado */
+  padding: 0; /* relleno de 0 pixeles*/
+  display: flex; /* esta propiedad ayuda a colocar las cajas como si fueran celdas de tablas*/
+}
+
+.menu li:hover{ /*estilos para ul de el elemento de clase "menu" cuando el cursor este encima */
+  background: rgba(0, 0, 0, 0.5); /* capa negra transparente sobre el background */
+}
+
+.menu li a{ /*estilos para los enlaces A de los  ul de el elemento de clase "menu" */
+  display: block; /* le dice al navegador que las cajas deben estar en bloques*/
+  padding: 15px 20px; /* relleno de 15 pixeles de alto por 20 pixeles de ancho */
+  color: #fff; /* color de las letras blaco */
+  text-decoration: none; /* decoracion del texto eliminado */
+}
