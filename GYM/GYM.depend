@@ -1,0 +1,1467 @@
+# depslib dependency file v1.0
+1719698552 source:c:\users\agus\documents\aa universidad\labo 2\gym junio\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+
+1719587699 source:c:\users\agus\documents\aa universidad\labo 2\gym junio\gym\main.cpp
+	<iostream>
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"menu.cpp"
+	"Fecha.h"
+	"identidad.h"
+	"identidadArchivo.h"
+
+1719322509 c:\users\agus\documents\aa universidad\labo 2\gym junio\gym\persona.h
+	<string>
+	<iostream>
+	"Fecha.h"
+	<cstring>
+
+1719322509 c:\users\agus\documents\aa universidad\labo 2\gym junio\gym\fecha.h
+	<string>
+	<iostream>
+
+1719453442 c:\users\agus\documents\aa universidad\labo 2\gym junio\gym\cliente.h
+	"Persona.h"
+	"Fecha.h"
+	"Disciplina.h"
+
+1719322509 c:\users\agus\documents\aa universidad\labo 2\gym junio\gym\disciplina.h
+	<cstring>
+	<string>
+	<iostream>
+
+1719698552 c:\users\agus\documents\aa universidad\labo 2\gym junio\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+
+1719322509 source:c:\users\agus\documents\aa universidad\labo 2\gym junio\gym\personaarchivo.cpp
+
+1719685447 c:\users\agus\documents\aa universidad\labo 2\gym junio\gym\personaarchivo.h
+	"Cliente.h"
+
+1719322509 c:\users\agus\documents\aa universidad\labo 2\gym junio\gym\disciplinaarchivo.h
+
+1720824121 source:c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\main.cpp
+	<iostream>
+	<fstream>
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"menu.cpp"
+	"Fecha.h"
+	"identidad.h"
+	"identidadArchivo.h"
+
+1720824121 c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\persona.h
+	<string>
+	<iostream>
+	"Fecha.h"
+	<cstring>
+
+1720824121 c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\fecha.h
+	<string>
+	<iostream>
+
+1720824121 c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\personaarchivo.h
+	"Cliente.h"
+	<cstdio>
+	<cstring>
+
+1720824121 c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\cliente.h
+	"Persona.h"
+	"Fecha.h"
+	"Disciplina.h"
+
+1720824121 c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\disciplina.h
+	<cstring>
+	<string>
+	<iostream>
+
+1720824121 c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\disciplinaarchivo.h
+	"Disciplina.h"
+	<iostream>
+	<cstdio>
+
+1720827328 c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+	"usuario.h"
+
+1720824121 source:c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\personaarchivo.cpp
+
+1720826327 source:c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+	"usuario.h"
+
+1719322509 c:\users\agus\documents\aa universidad\labo 2\gym junio\gym\asistencia.h
+	"Persona.h"
+	"Fecha.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1719322509 c:\users\agus\documents\aa universidad\labo 2\gym junio\gym\asistenciaarchivo.h
+	"Asistencia.h"
+
+1719585828 c:\users\agus\documents\aa universidad\labo 2\gym junio\gym\pagos.h
+	<cstring>
+	<string>
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+
+1719685470 c:\users\agus\documents\aa universidad\labo 2\gym junio\gym\pagosarchivo.h
+
+1719587464 c:\users\agus\documents\aa universidad\labo 2\gym junio\gym\identidad.h
+
+1719587263 c:\users\agus\documents\aa universidad\labo 2\gym junio\gym\identidadarchivo.h
+
+1719757904 source:c:\users\senin\downloads\tp-labo-main (1)\tp-labo-main\gym\main.cpp
+	<iostream>
+	<fstream>
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"menu.cpp"
+	"Fecha.h"
+	"identidad.h"
+	"identidadArchivo.h"
+
+1719757542 c:\users\senin\downloads\tp-labo-main (1)\tp-labo-main\gym\persona.h
+	<string>
+	<iostream>
+	"Fecha.h"
+	<cstring>
+
+1719757542 c:\users\senin\downloads\tp-labo-main (1)\tp-labo-main\gym\fecha.h
+	<string>
+	<iostream>
+
+1719757542 c:\users\senin\downloads\tp-labo-main (1)\tp-labo-main\gym\personaarchivo.h
+	"Cliente.h"
+
+1719757542 c:\users\senin\downloads\tp-labo-main (1)\tp-labo-main\gym\cliente.h
+	"Persona.h"
+	"Fecha.h"
+	"Disciplina.h"
+
+1719757542 c:\users\senin\downloads\tp-labo-main (1)\tp-labo-main\gym\disciplina.h
+	<cstring>
+	<string>
+	<iostream>
+
+1719757542 c:\users\senin\downloads\tp-labo-main (1)\tp-labo-main\gym\disciplinaarchivo.h
+
+1719757839 c:\users\senin\downloads\tp-labo-main (1)\tp-labo-main\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	<ctime>
+
+1719757542 c:\users\senin\downloads\tp-labo-main (1)\tp-labo-main\gym\asistencia.h
+	"Persona.h"
+	"Fecha.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1719757542 c:\users\senin\downloads\tp-labo-main (1)\tp-labo-main\gym\asistenciaarchivo.h
+	"Asistencia.h"
+
+1719757542 c:\users\senin\downloads\tp-labo-main (1)\tp-labo-main\gym\pagos.h
+	<cstring>
+	<string>
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+
+1719757542 c:\users\senin\downloads\tp-labo-main (1)\tp-labo-main\gym\pagosarchivo.h
+
+1719757542 c:\users\senin\downloads\tp-labo-main (1)\tp-labo-main\gym\identidad.h
+
+1719757542 c:\users\senin\downloads\tp-labo-main (1)\tp-labo-main\gym\identidadarchivo.h
+
+1719757542 source:c:\users\senin\downloads\tp-labo-main (1)\tp-labo-main\gym\personaarchivo.cpp
+
+1719757839 source:c:\users\senin\downloads\tp-labo-main (1)\tp-labo-main\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	<ctime>
+
+1719792473 source:c:\users\agus\documents\aa universidad\labo 2\gym final junio\gym\main.cpp
+	<iostream>
+	<fstream>
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"menu.cpp"
+	"Fecha.h"
+	"identidad.h"
+	"identidadArchivo.h"
+
+1719792400 c:\users\agus\documents\aa universidad\labo 2\gym final junio\gym\persona.h
+	<string>
+	<iostream>
+	"Fecha.h"
+	<cstring>
+
+1719777358 c:\users\agus\documents\aa universidad\labo 2\gym final junio\gym\fecha.h
+	<string>
+	<iostream>
+
+1719777358 c:\users\agus\documents\aa universidad\labo 2\gym final junio\gym\personaarchivo.h
+	"Cliente.h"
+
+1719792362 c:\users\agus\documents\aa universidad\labo 2\gym final junio\gym\cliente.h
+	"Persona.h"
+	"Fecha.h"
+	"Disciplina.h"
+
+1719797400 c:\users\agus\documents\aa universidad\labo 2\gym final junio\gym\disciplina.h
+	<cstring>
+	<string>
+	<iostream>
+
+1719777358 c:\users\agus\documents\aa universidad\labo 2\gym final junio\gym\disciplinaarchivo.h
+
+1719797521 c:\users\agus\documents\aa universidad\labo 2\gym final junio\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+
+1719781700 c:\users\agus\documents\aa universidad\labo 2\gym final junio\gym\asistencia.h
+	"Persona.h"
+	"Cliente.h"
+	"Fecha.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1719777358 c:\users\agus\documents\aa universidad\labo 2\gym final junio\gym\asistenciaarchivo.h
+	"Asistencia.h"
+
+1719777358 c:\users\agus\documents\aa universidad\labo 2\gym final junio\gym\pagos.h
+	<cstring>
+	<string>
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+
+1719777358 c:\users\agus\documents\aa universidad\labo 2\gym final junio\gym\pagosarchivo.h
+
+1719782644 c:\users\agus\documents\aa universidad\labo 2\gym final junio\gym\identidad.h
+
+1719782722 c:\users\agus\documents\aa universidad\labo 2\gym final junio\gym\identidadarchivo.h
+	"identidad.h"
+
+1719797521 source:c:\users\agus\documents\aa universidad\labo 2\gym final junio\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+
+1719777358 source:c:\users\agus\documents\aa universidad\labo 2\gym final junio\gym\personaarchivo.cpp
+
+1720824121 c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\asistencia.h
+	"Persona.h"
+	"Cliente.h"
+	"Fecha.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1720824121 c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\asistenciaarchivo.h
+	"Asistencia.h"
+	<iostream>
+	<cstdio>
+
+1720824121 c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\pagos.h
+	<cstring>
+	<string>
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+
+1720824121 c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\pagosarchivo.h
+	"Pagos.h"
+	<iostream>
+	<cstdio>
+
+1720824121 c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\identidad.h
+
+1720824121 c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\identidadarchivo.h
+	"Identidad.h"
+	<iostream>
+	<cstdio>
+
+1719950018 source:c:\users\agus\documents\aa universidad\labo 2\gym julio\tp-labo-main\gym\main.cpp
+	<iostream>
+	<fstream>
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"menu.cpp"
+	"Fecha.h"
+	"identidad.h"
+	"identidadArchivo.h"
+
+1719950018 c:\users\agus\documents\aa universidad\labo 2\gym julio\tp-labo-main\gym\persona.h
+	<string>
+	<iostream>
+	"Fecha.h"
+	<cstring>
+
+1719950018 c:\users\agus\documents\aa universidad\labo 2\gym julio\tp-labo-main\gym\fecha.h
+	<string>
+	<iostream>
+
+1719957946 c:\users\agus\documents\aa universidad\labo 2\gym julio\tp-labo-main\gym\personaarchivo.h
+	"Cliente.h"
+	<cstdio>
+	<cstring>
+
+1719957936 c:\users\agus\documents\aa universidad\labo 2\gym julio\tp-labo-main\gym\cliente.h
+	"Persona.h"
+	"Fecha.h"
+	"Disciplina.h"
+
+1719950018 c:\users\agus\documents\aa universidad\labo 2\gym julio\tp-labo-main\gym\disciplina.h
+	<cstring>
+	<string>
+	<iostream>
+
+1719950018 c:\users\agus\documents\aa universidad\labo 2\gym julio\tp-labo-main\gym\disciplinaarchivo.h
+
+1720020640 c:\users\agus\documents\aa universidad\labo 2\gym julio\tp-labo-main\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+
+1719950018 c:\users\agus\documents\aa universidad\labo 2\gym julio\tp-labo-main\gym\asistencia.h
+	"Persona.h"
+	"Cliente.h"
+	"Fecha.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1719950018 c:\users\agus\documents\aa universidad\labo 2\gym julio\tp-labo-main\gym\asistenciaarchivo.h
+	"Asistencia.h"
+
+1719950018 c:\users\agus\documents\aa universidad\labo 2\gym julio\tp-labo-main\gym\pagos.h
+	<cstring>
+	<string>
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+
+1719950018 c:\users\agus\documents\aa universidad\labo 2\gym julio\tp-labo-main\gym\pagosarchivo.h
+
+1719950018 c:\users\agus\documents\aa universidad\labo 2\gym julio\tp-labo-main\gym\identidad.h
+
+1719950018 c:\users\agus\documents\aa universidad\labo 2\gym julio\tp-labo-main\gym\identidadarchivo.h
+	"identidad.h"
+
+1719950018 source:c:\users\agus\documents\aa universidad\labo 2\gym julio\tp-labo-main\gym\personaarchivo.cpp
+
+1720020640 source:c:\users\agus\documents\aa universidad\labo 2\gym julio\tp-labo-main\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+
+1720052909 source:c:\users\senin\downloads\gymrestauracion\gym\main.cpp
+	<iostream>
+	<fstream>
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"menu.cpp"
+	"Fecha.h"
+	"identidad.h"
+	"identidadArchivo.h"
+
+1720052909 c:\users\senin\downloads\gymrestauracion\gym\persona.h
+	<string>
+	<iostream>
+	"Fecha.h"
+	<cstring>
+
+1720052909 c:\users\senin\downloads\gymrestauracion\gym\fecha.h
+	<string>
+	<iostream>
+
+1720053002 c:\users\senin\downloads\gymrestauracion\gym\personaarchivo.h
+	"Cliente.h"
+	<cstdio>
+	<cstring>
+
+1720052909 c:\users\senin\downloads\gymrestauracion\gym\cliente.h
+	"Persona.h"
+	"Fecha.h"
+	"Disciplina.h"
+
+1720052909 c:\users\senin\downloads\gymrestauracion\gym\disciplina.h
+	<cstring>
+	<string>
+	<iostream>
+
+1720052909 c:\users\senin\downloads\gymrestauracion\gym\disciplinaarchivo.h
+	"Disciplina.h"
+	<iostream>
+	<cstdio>
+
+1720054057 c:\users\senin\downloads\gymrestauracion\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+
+1720052909 c:\users\senin\downloads\gymrestauracion\gym\asistencia.h
+	"Persona.h"
+	"Cliente.h"
+	"Fecha.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1720052989 c:\users\senin\downloads\gymrestauracion\gym\asistenciaarchivo.h
+	"Asistencia.h"
+	<iostream>
+	<cstdio>
+
+1720052909 c:\users\senin\downloads\gymrestauracion\gym\pagos.h
+	<cstring>
+	<string>
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+
+1720052984 c:\users\senin\downloads\gymrestauracion\gym\pagosarchivo.h
+	"Pagos.h"
+	<iostream>
+	<cstdio>
+
+1720052909 c:\users\senin\downloads\gymrestauracion\gym\identidad.h
+
+1720052978 c:\users\senin\downloads\gymrestauracion\gym\identidadarchivo.h
+	"Identidad.h"
+	<iostream>
+	<cstdio>
+
+1720053064 source:c:\users\senin\downloads\gymrestauracion\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+
+1720052909 source:c:\users\senin\downloads\gymrestauracion\gym\personaarchivo.cpp
+
+1720054333 source:c:\users\pc\onedrive\escritorio\gym\main.cpp
+	<iostream>
+	<fstream>
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"menu.cpp"
+	"Fecha.h"
+	"identidad.h"
+	"identidadArchivo.h"
+
+1720054333 c:\users\pc\onedrive\escritorio\gym\persona.h
+	<string>
+	<iostream>
+	"Fecha.h"
+	<cstring>
+
+1720054333 c:\users\pc\onedrive\escritorio\gym\fecha.h
+	<string>
+	<iostream>
+
+1720054333 c:\users\pc\onedrive\escritorio\gym\personaarchivo.h
+	"Cliente.h"
+	<cstdio>
+	<cstring>
+
+1720054333 c:\users\pc\onedrive\escritorio\gym\cliente.h
+	"Persona.h"
+	"Fecha.h"
+	"Disciplina.h"
+
+1720054333 c:\users\pc\onedrive\escritorio\gym\disciplina.h
+	<cstring>
+	<string>
+	<iostream>
+
+1720054333 c:\users\pc\onedrive\escritorio\gym\disciplinaarchivo.h
+	"Disciplina.h"
+	<iostream>
+	<cstdio>
+
+1720066078 c:\users\pc\onedrive\escritorio\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+
+1720054333 c:\users\pc\onedrive\escritorio\gym\asistencia.h
+	"Persona.h"
+	"Cliente.h"
+	"Fecha.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1720054333 c:\users\pc\onedrive\escritorio\gym\asistenciaarchivo.h
+	"Asistencia.h"
+	<iostream>
+	<cstdio>
+
+1720054333 c:\users\pc\onedrive\escritorio\gym\pagos.h
+	<cstring>
+	<string>
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+
+1720054333 c:\users\pc\onedrive\escritorio\gym\pagosarchivo.h
+	"Pagos.h"
+	<iostream>
+	<cstdio>
+
+1720054333 c:\users\pc\onedrive\escritorio\gym\identidad.h
+
+1720054333 c:\users\pc\onedrive\escritorio\gym\identidadarchivo.h
+	"Identidad.h"
+	<iostream>
+	<cstdio>
+
+1720066078 source:c:\users\pc\onedrive\escritorio\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+
+1720054333 source:c:\users\pc\onedrive\escritorio\gym\personaarchivo.cpp
+
+1720071103 source:c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\gym\main.cpp
+	<iostream>
+	<fstream>
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"menu.cpp"
+	"Fecha.h"
+	"identidad.h"
+	"identidadArchivo.h"
+
+1720071103 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\gym\persona.h
+	<string>
+	<iostream>
+	"Fecha.h"
+	<cstring>
+
+1720071103 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\gym\fecha.h
+	<string>
+	<iostream>
+
+1720071103 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\gym\personaarchivo.h
+	"Cliente.h"
+	<cstdio>
+	<cstring>
+
+1720071103 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\gym\cliente.h
+	"Persona.h"
+	"Fecha.h"
+	"Disciplina.h"
+
+1720071103 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\gym\disciplina.h
+	<cstring>
+	<string>
+	<iostream>
+
+1720071103 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\gym\disciplinaarchivo.h
+	"Disciplina.h"
+	<iostream>
+	<cstdio>
+
+1720115038 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+
+1720071103 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\gym\asistencia.h
+	"Persona.h"
+	"Cliente.h"
+	"Fecha.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1720071103 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\gym\asistenciaarchivo.h
+	"Asistencia.h"
+	<iostream>
+	<cstdio>
+
+1720071103 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\gym\pagos.h
+	<cstring>
+	<string>
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+
+1720071103 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\gym\pagosarchivo.h
+	"Pagos.h"
+	<iostream>
+	<cstdio>
+
+1720071103 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\gym\identidad.h
+
+1720071103 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\gym\identidadarchivo.h
+	"Identidad.h"
+	<iostream>
+	<cstdio>
+
+1720112679 source:c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+
+1720071103 source:c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\gym\personaarchivo.cpp
+
+1720130986 source:c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\eze\gym\main.cpp
+	<iostream>
+	<fstream>
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"menu.cpp"
+	"Fecha.h"
+	"identidad.h"
+	"identidadArchivo.h"
+
+1720122844 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\eze\gym\persona.h
+	<string>
+	<iostream>
+	"Fecha.h"
+	<cstring>
+
+1720122844 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\eze\gym\fecha.h
+	<string>
+	<iostream>
+
+1720122844 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\eze\gym\personaarchivo.h
+	"Cliente.h"
+	<cstdio>
+	<cstring>
+
+1720122844 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\eze\gym\cliente.h
+	"Persona.h"
+	"Fecha.h"
+	"Disciplina.h"
+
+1720122844 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\eze\gym\disciplina.h
+	<cstring>
+	<string>
+	<iostream>
+
+1720128941 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\eze\gym\disciplinaarchivo.h
+	"Disciplina.h"
+	<iostream>
+	<cstdio>
+
+1720134163 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\eze\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+
+1720122844 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\eze\gym\asistencia.h
+	"Persona.h"
+	"Cliente.h"
+	"Fecha.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1720122844 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\eze\gym\asistenciaarchivo.h
+	"Asistencia.h"
+	<iostream>
+	<cstdio>
+
+1720122844 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\eze\gym\pagos.h
+	<cstring>
+	<string>
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+
+1720122844 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\eze\gym\pagosarchivo.h
+	"Pagos.h"
+	<iostream>
+	<cstdio>
+
+1720122844 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\eze\gym\identidad.h
+
+1720122844 c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\eze\gym\identidadarchivo.h
+	"Identidad.h"
+	<iostream>
+	<cstdio>
+
+1720134163 source:c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\eze\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+
+1720122844 source:c:\users\agus\documents\aa universidad\labo 2\4-7 gym julio\eze\gym\personaarchivo.cpp
+
+1720136216 source:c:\users\agus\documents\aa universidad\labo 2\12-7 gym\gym\main.cpp
+	<iostream>
+	<fstream>
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"menu.cpp"
+	"Fecha.h"
+	"identidad.h"
+	"identidadArchivo.h"
+
+1720136216 c:\users\agus\documents\aa universidad\labo 2\12-7 gym\gym\persona.h
+	<string>
+	<iostream>
+	"Fecha.h"
+	<cstring>
+
+1720136216 c:\users\agus\documents\aa universidad\labo 2\12-7 gym\gym\fecha.h
+	<string>
+	<iostream>
+
+1720136216 c:\users\agus\documents\aa universidad\labo 2\12-7 gym\gym\personaarchivo.h
+	"Cliente.h"
+	<cstdio>
+	<cstring>
+
+1720808636 c:\users\agus\documents\aa universidad\labo 2\12-7 gym\gym\cliente.h
+	"Persona.h"
+	"Fecha.h"
+	"Disciplina.h"
+
+1720136216 c:\users\agus\documents\aa universidad\labo 2\12-7 gym\gym\disciplina.h
+	<cstring>
+	<string>
+	<iostream>
+
+1720136216 c:\users\agus\documents\aa universidad\labo 2\12-7 gym\gym\disciplinaarchivo.h
+	"Disciplina.h"
+	<iostream>
+	<cstdio>
+
+1720808724 c:\users\agus\documents\aa universidad\labo 2\12-7 gym\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+
+1720136216 c:\users\agus\documents\aa universidad\labo 2\12-7 gym\gym\asistencia.h
+	"Persona.h"
+	"Cliente.h"
+	"Fecha.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1720136216 c:\users\agus\documents\aa universidad\labo 2\12-7 gym\gym\asistenciaarchivo.h
+	"Asistencia.h"
+	<iostream>
+	<cstdio>
+
+1720136216 c:\users\agus\documents\aa universidad\labo 2\12-7 gym\gym\pagos.h
+	<cstring>
+	<string>
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+
+1720136216 c:\users\agus\documents\aa universidad\labo 2\12-7 gym\gym\pagosarchivo.h
+	"Pagos.h"
+	<iostream>
+	<cstdio>
+
+1720136216 c:\users\agus\documents\aa universidad\labo 2\12-7 gym\gym\identidad.h
+
+1720136216 c:\users\agus\documents\aa universidad\labo 2\12-7 gym\gym\identidadarchivo.h
+	"Identidad.h"
+	<iostream>
+	<cstdio>
+
+1720136216 source:c:\users\agus\documents\aa universidad\labo 2\12-7 gym\gym\personaarchivo.cpp
+
+1720808476 source:c:\users\agus\documents\aa universidad\labo 2\12-7 gym\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+
+1720826659 c:\users\senin\downloads\tp-labo-main\tp-labo-main\gym\usuario.h
+	<iostream>
+	<fstream>
+	<cstring>
+
+1721166318 source:c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\main.cpp
+	<iostream>
+	<fstream>
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"menu.cpp"
+	"Fecha.h"
+	"identidad.h"
+	"identidadArchivo.h"
+
+1720827398 c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\persona.h
+	<string>
+	<iostream>
+	"Fecha.h"
+	<cstring>
+
+1720827398 c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\fecha.h
+	<string>
+	<iostream>
+
+1720827398 c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\personaarchivo.h
+	"Cliente.h"
+	<cstdio>
+	<cstring>
+
+1720827398 c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\cliente.h
+	"Persona.h"
+	"Fecha.h"
+	"Disciplina.h"
+
+1720827398 c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\disciplina.h
+	<cstring>
+	<string>
+	<iostream>
+
+1720827398 c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\disciplinaarchivo.h
+	"Disciplina.h"
+	<iostream>
+	<cstdio>
+
+1721171373 c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+	"usuario.h"
+
+1720827398 c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\asistencia.h
+	"Persona.h"
+	"Cliente.h"
+	"Fecha.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1720827398 c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\asistenciaarchivo.h
+	"Asistencia.h"
+	<iostream>
+	<cstdio>
+
+1720827398 c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\pagos.h
+	<cstring>
+	<string>
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+
+1720827398 c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\pagosarchivo.h
+	"Pagos.h"
+	<iostream>
+	<cstdio>
+
+1720827398 c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\identidad.h
+
+1720827398 c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\identidadarchivo.h
+	"Identidad.h"
+	<iostream>
+	<cstdio>
+
+1721165149 c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\usuario.h
+	<iostream>
+	<fstream>
+	<cstring>
+
+1721168055 source:c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+	"usuario.h"
+
+1720827398 source:c:\users\agus\documents\aa universidad\labo 2\15-7 gyn\gym\personaarchivo.cpp
+
+1721272190 source:c:\users\pc\onedrive\escritorio\tp-labo-main\gym\main.cpp
+	<iostream>
+	<fstream>
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"menu.cpp"
+	"Fecha.h"
+	"identidad.h"
+	"identidadArchivo.h"
+
+1721272190 c:\users\pc\onedrive\escritorio\tp-labo-main\gym\persona.h
+	<string>
+	<iostream>
+	"Fecha.h"
+	<cstring>
+
+1721272190 c:\users\pc\onedrive\escritorio\tp-labo-main\gym\fecha.h
+	<string>
+	<iostream>
+
+1721272190 c:\users\pc\onedrive\escritorio\tp-labo-main\gym\personaarchivo.h
+	"Cliente.h"
+	<cstdio>
+	<cstring>
+
+1721272190 c:\users\pc\onedrive\escritorio\tp-labo-main\gym\cliente.h
+	"Persona.h"
+	"Fecha.h"
+	"Disciplina.h"
+
+1721272190 c:\users\pc\onedrive\escritorio\tp-labo-main\gym\disciplina.h
+	<cstring>
+	<string>
+	<iostream>
+
+1721272190 c:\users\pc\onedrive\escritorio\tp-labo-main\gym\disciplinaarchivo.h
+	"Disciplina.h"
+	<iostream>
+	<cstdio>
+
+1721273130 c:\users\pc\onedrive\escritorio\tp-labo-main\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+	"usuario.h"
+	"rlutil.h"
+	<fstream>
+
+1721272190 c:\users\pc\onedrive\escritorio\tp-labo-main\gym\asistencia.h
+	"Persona.h"
+	"Cliente.h"
+	"Fecha.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1721272190 c:\users\pc\onedrive\escritorio\tp-labo-main\gym\asistenciaarchivo.h
+	"Asistencia.h"
+	<iostream>
+	<cstdio>
+
+1721272190 c:\users\pc\onedrive\escritorio\tp-labo-main\gym\pagos.h
+	<cstring>
+	<string>
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+
+1721272190 c:\users\pc\onedrive\escritorio\tp-labo-main\gym\pagosarchivo.h
+	"Pagos.h"
+	<iostream>
+	<cstdio>
+
+1721272190 c:\users\pc\onedrive\escritorio\tp-labo-main\gym\identidad.h
+
+1721272190 c:\users\pc\onedrive\escritorio\tp-labo-main\gym\identidadarchivo.h
+	"Identidad.h"
+	<iostream>
+	<cstdio>
+
+1721272190 c:\users\pc\onedrive\escritorio\tp-labo-main\gym\usuario.h
+	<iostream>
+	<fstream>
+	<cstring>
+
+1721272190 c:\users\pc\onedrive\escritorio\tp-labo-main\gym\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1721272190 source:c:\users\pc\onedrive\escritorio\tp-labo-main\gym\personaarchivo.cpp
+
+1721272190 source:c:\users\pc\onedrive\escritorio\tp-labo-main\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+	"usuario.h"
+	"rlutil.h"
+	<fstream>
+
+1721277362 source:c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\main.cpp
+	<iostream>
+	<fstream>
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"menu.cpp"
+	"Fecha.h"
+	"identidad.h"
+	"identidadArchivo.h"
+
+1721277362 c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\persona.h
+	<string>
+	<iostream>
+	"Fecha.h"
+	<cstring>
+
+1721277362 c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\fecha.h
+	<string>
+	<iostream>
+
+1721277362 c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\personaarchivo.h
+	"Cliente.h"
+	<cstdio>
+	<cstring>
+
+1721277362 c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\cliente.h
+	"Persona.h"
+	"Fecha.h"
+	"Disciplina.h"
+
+1721277362 c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\disciplina.h
+	<cstring>
+	<string>
+	<iostream>
+
+1721277362 c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\disciplinaarchivo.h
+	"Disciplina.h"
+	<iostream>
+	<cstdio>
+
+1721339500 c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+	"usuario.h"
+	"rlutil.h"
+	<fstream>
+
+1721277362 c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\asistencia.h
+	"Persona.h"
+	"Cliente.h"
+	"Fecha.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1721277362 c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\asistenciaarchivo.h
+	"Asistencia.h"
+	<iostream>
+	<cstdio>
+
+1721277362 c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\pagos.h
+	<cstring>
+	<string>
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+
+1721277362 c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\pagosarchivo.h
+	"Pagos.h"
+	<iostream>
+	<cstdio>
+
+1721277362 c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\identidad.h
+
+1721277362 c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\identidadarchivo.h
+	"Identidad.h"
+	<iostream>
+	<cstdio>
+
+1721277362 c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\usuario.h
+	<iostream>
+	<fstream>
+	<cstring>
+
+1721277362 c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1721277362 source:c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\menu.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+	"Disciplina.h"
+	"Persona.h"
+	"personaArchivo.h"
+	"disciplinaArchivo.h"
+	"Asistencia.h"
+	"asistenciaArchivo.h"
+	"pagos.h"
+	"pagosArchivo.h"
+	"identidad.h"
+	"identidadArchivo.h"
+	<ctime>
+	<limits>
+	"usuario.h"
+	"rlutil.h"
+	<fstream>
+
+1721277362 source:c:\users\agus\documents\aa universidad\labo 2\17-7 gym\version final\gym\personaarchivo.cpp
+
