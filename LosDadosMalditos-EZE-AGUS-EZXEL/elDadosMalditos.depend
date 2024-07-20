@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1699512562 source:c:\users\usuario\documents\project\eldadosmalditos\main.cpp
+	<iostream>
+	"utils.h"
+
+1699513134 c:\users\usuario\documents\project\eldadosmalditos\utils.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+
+1699534519 source:c:\users\axel\downloads\eldadosmalditos\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	"rlutil.h"
+	<cstring>
+	<ctime>
+	<cstdio>
+	"utils.h"
+
+1699545414 c:\users\axel\downloads\eldadosmalditos\utils.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+
+1699240984 c:\users\axel\downloads\eldadosmalditos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699817770 source:c:\users\usuario\downloads\dadosmalditoslavenganza 2\dadosmalditoslavenganza 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	"rlutil.h"
+	<cstring>
+	<ctime>
+	<cstdio>
+	"utils.h"
+
+1699240984 c:\users\usuario\downloads\dadosmalditoslavenganza 2\dadosmalditoslavenganza 2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699819791 c:\users\usuario\downloads\dadosmalditoslavenganza 2\dadosmalditoslavenganza 2\utils.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+
+1701058702 source:c:\users\estudiante\desktop\losdadosmalditos-main\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<cstring>
+	<ctime>
+	<cstdio>
+	"rlutil.h"
+	"utils.h"
+
+1701058371 c:\users\estudiante\desktop\losdadosmalditos-main\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1701091238 c:\users\estudiante\desktop\losdadosmalditos-main\utils.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"rlutil.h"
+
+1701058704 source:c:\users\agus\documents\aa universidad\programacion\tp final\losdadosmalditos\losdadosmalditos-eze-agus-ezxel\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<cstring>
+	<ctime>
+	<cstdio>
+	"rlutil.h"
+	"utils.h"
+
+1701058372 c:\users\agus\documents\aa universidad\programacion\tp final\losdadosmalditos\losdadosmalditos-eze-agus-ezxel\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1701091240 c:\users\agus\documents\aa universidad\programacion\tp final\losdadosmalditos\losdadosmalditos-eze-agus-ezxel\utils.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"rlutil.h"
+
